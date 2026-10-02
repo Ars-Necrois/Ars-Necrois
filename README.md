@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Ars-Necrois
 
-<!--
-**Ars-Necrois/Ars-Necrois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido/a a mi perfil de GitHub. Aquí encontrarás mis proyectos, experimentos de código y las tecnologías con las que construyo soluciones.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- Me apasiona el desarrollo de software y la programación.
+- Actualmente estoy explorando nuevas tecnologías y mejorando mis habilidades.
+- Curiosidad constante por aprender cómo funcionan las cosas bajo el capó.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes:** Python, JavaScript, TypeScript, C++, C#, Java, Go, Rust, PHP, Ruby, HTML, CSS, SQL
+- **Frameworks & Librerías:** React, Next.js, Node.js, Express, FastAPI, Django, Spring Boot, .NET
+- **Bases de Datos:** PostgreSQL, MySQL, MongoDB, Redis, SQLite
+- **Herramientas & DevOps:** Git, GitHub, Docker, Linux, VS Code, Postman, Vite, Webpack
+
+---
+
+### 📫 Contacto
+
+- GitHub: [@Ars-Necrois](https://github.com/Ars-Necrois)
